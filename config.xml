@@ -1,0 +1,7 @@
+<config>
+    <settings>
+        <pump1>600</pump1>
+         <temp>26</temp>
+        <lightTime>0</lightTime> 
+    </settings>
+</config>
